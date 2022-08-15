@@ -1,0 +1,2 @@
+# termux
+Kali Linux 
